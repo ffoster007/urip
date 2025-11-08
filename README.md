@@ -19,7 +19,7 @@ A simple command-line tool written in Rust that converts URLs to their correspon
 
 1. Clone or navigate to the project directory:
 ```bash
-cd /home/ffoster007/urltoip
+cd urip
 ```
 
 2. Build the project:
