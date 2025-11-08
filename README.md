@@ -54,7 +54,7 @@ ipu https://github.com
 
 # Convert any website
 ipu https://www.example.com
-# Output: Ip: 93.184.216.34
+# Output: Ip: 00.000.000.00
 ```
 
 ### Error Handling
