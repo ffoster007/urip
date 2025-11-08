@@ -22,16 +22,6 @@ A simple command-line tool written in Rust that converts URLs to their correspon
 cd urip
 ```
 
-2. Build the project:
-```bash
-cargo build --release
-```
-
-3. Install the binary:
-```bash
-cargo install --path .
-```
-
 The `ipu` command will be installed to `~/.cargo/bin/ipu` (make sure this directory is in your PATH).
 
 ## Usage
