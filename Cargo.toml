@@ -1,0 +1,11 @@
+[package]
+name = "ipu"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "ipu"
+path = "src/main.rs"
+
+[dependencies]
+url = "2.5"
