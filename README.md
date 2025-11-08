@@ -83,7 +83,3 @@ To remove the installed binary:
 ```bash
 cargo uninstall ipu
 ```
-
-## License
-
-MIT
